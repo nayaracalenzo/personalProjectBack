@@ -2,9 +2,9 @@
 
 Este é um projeto que fornece a estrutura responsável pela parte lógica da aplicação e integração dos dados  utilizando Express.js 
 
-## Frontend do Projeto
+## Projeto Frontend
 
-`[text](https://github.com/nayaracalenzo/personalProjectBack)`
+`https://github.com/nayaracalenzo/personalProjectFront`
 
 ## Tecnologias
 
@@ -18,7 +18,7 @@ Este é um projeto que fornece a estrutura responsável pela parte lógica da ap
 
 Execute os comandos no terminal:
 
-1. `git clone [text](https://github.com/nayaracalenzo/personalProjectBack)`
+1. `git clone https://github.com/nayaracalenzo/personalProjectBack`
 
 2. `cd personalProjectBack`
 
@@ -32,18 +32,4 @@ No terminal execute o comando `npm run dev` que permite o acesso através da URL
 
 ## Estrutura do Projeto
 
-│-- src/
-│   ├── config/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── models/
-│   ├── repositories/
-│   ├── routes/
-│   ├── services/
-│   ├── app.js
-│   ├── server.js
-│-- .env
-│-- .gitignore
-│-- package-lock.json
-│-- package.json
-│-- README.md
+![image](https://github.com/user-attachments/assets/279e0430-cb9d-4c93-b08e-9541f6da86e3)
